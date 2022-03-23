@@ -1,24 +1,5 @@
-# webaps-2
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Pošalji zahtjeve i prikaži ih u tablici 
+- Andrej Korica
+- JMBAG: 0303092327
+- WEB APPS
+- Preuzmi broj commitova vuejs repozitorija i prikaži rezultat
